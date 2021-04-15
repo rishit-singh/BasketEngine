@@ -1,0 +1,16 @@
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net5.0/BasketEngine
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net5.0/BasketEngine.deps.json
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net5.0/BasketEngine.runtimeconfig.json
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net5.0/BasketEngine.runtimeconfig.dev.json
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net5.0/BasketEngine.dll
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net5.0/ref/BasketEngine.dll
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net5.0/BasketEngine.pdb
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net5.0/BasketEngine.csprojAssemblyReference.cache
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net5.0/BasketEngine.GeneratedMSBuildEditorConfig.editorconfig
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net5.0/BasketEngine.AssemblyInfoInputs.cache
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net5.0/BasketEngine.AssemblyInfo.cs
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net5.0/BasketEngine.csproj.CoreCompileInputs.cache
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net5.0/BasketEngine.dll
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net5.0/ref/BasketEngine.dll
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net5.0/BasketEngine.pdb
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net5.0/BasketEngine.genruntimeconfig.cache
