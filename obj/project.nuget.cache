@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hH5ul5CyIddmPc5CkjeDNRan0NdOo3Kb9+N8j7Ug4I6j3KEGRWvJDXNkrzfwDjRU5Od3Z+UC1fD74rvqsc7qhg==",
+  "dgSpecHash": "icBFmGql1H3tOHTdlovxHNtytlqpTEvUqE/QS5ftcWeiX2q6uUJXh2xSoYs2BkNPYn9sc2fuv1XDNd1yu9JiRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sglaw\\source\\repos\\BasketEngine\\BasketEngine.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\sglaw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\sglaw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "/media/rishit/HDD0/src/repos/BasketEngine/BasketEngine.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

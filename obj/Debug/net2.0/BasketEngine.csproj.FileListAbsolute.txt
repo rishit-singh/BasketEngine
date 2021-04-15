@@ -1,0 +1,8 @@
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net2.0/BasketEngine.exe.config
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net2.0/BasketEngine.exe
+/media/rishit/HDD0/src/repos/BasketEngine/bin/Debug/net2.0/BasketEngine.pdb
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net2.0/BasketEngine.AssemblyInfoInputs.cache
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net2.0/BasketEngine.AssemblyInfo.cs
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net2.0/BasketEngine.csproj.CoreCompileInputs.cache
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net2.0/BasketEngine.exe
+/media/rishit/HDD0/src/repos/BasketEngine/obj/Debug/net2.0/BasketEngine.pdb
