@@ -1,7 +1,10 @@
-﻿using System;
+﻿// system
+using System;
 using System.Collections;
 using System.Collections.Generic;
-using BasketEngine; 
+
+// basketengine
+using BasketEngine;
 using BasketEngine.Cartesian; 
 using BasketEngine.Renderer; 
 
